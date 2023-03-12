@@ -1,0 +1,2 @@
+mv config/config.example.yml config/config.yml
+mv config/config.example.env config/config.env
